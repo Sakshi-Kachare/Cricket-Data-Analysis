@@ -218,17 +218,11 @@ Cricket-Data-Analysis/
 
 ```
 
+Email: sakshikachare444@gmail.com
 
+GitHub: https://github.com/Sakshi-Kachare
 
-Email:\[sakshikachare444@gmail.com](mailto\\:sakshikachare444@gmail.com)
-
-
-
-GitHub: \[https://github.com/Sakshi-Kachare](https://github.com/Sakshi-Kachare)
-
-
-
-\---
+---
 
 
 

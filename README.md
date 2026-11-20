@@ -200,8 +200,7 @@ The project includes the following visualizations:
 
 
 
-\## 📁 Project Structure
-
+## 📁 Project Structure
 
 
 ```text

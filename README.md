@@ -1,8 +1,8 @@
-\# 🏏 Cricket Data Analysis Using Python
+# 🏏 Cricket Data Analysis Using Python
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -14,7 +14,7 @@ The project uses Python libraries to clean, process, analyze, and visualize cric
 
 
 
-\## 🎯 Project Objectives
+## 🎯 Project Objectives
 
 
 
@@ -34,7 +34,7 @@ The project uses Python libraries to clean, process, analyze, and visualize cric
 
 
 
-\## 🛠️ Technologies \& Libraries Used
+## 🛠️ Technologies \& Libraries Used
 
 
 
@@ -52,7 +52,7 @@ The project uses Python libraries to clean, process, analyze, and visualize cric
 
 
 
-\## 📂 Dataset Information
+## 📂 Dataset Information
 
 
 
@@ -96,7 +96,7 @@ The dataset contains cricket player statistics with details such as:
 
 
 
-\## 🧹 Data Cleaning \& Preprocessing
+## 🧹 Data Cleaning \& Preprocessing
 
 
 
@@ -120,7 +120,7 @@ The dataset contains cricket player statistics with details such as:
 
 
 
-\## 📊 Data Analysis Performed
+## 📊 Data Analysis Performed
 
 
 
@@ -144,7 +144,7 @@ The dataset contains cricket player statistics with details such as:
 
 
 
-\## 📈 Data Visualizations
+## 📈 Data Visualizations
 
 
 
@@ -168,7 +168,7 @@ The project includes the following visualizations:
 
 
 
-\## ⚙️ How to Run This Project
+## ⚙️ How to Run This Project
 
 
 
